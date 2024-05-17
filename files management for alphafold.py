@@ -20,3 +20,4 @@ for i in range(1, N+1):
         
 print('list of files that are not found:',list_of_files_not_found)
 # Additional processing or analysis of file contents can be performed here
+#if you want to visualize the result, there is a code to do so in biolib documenation website
